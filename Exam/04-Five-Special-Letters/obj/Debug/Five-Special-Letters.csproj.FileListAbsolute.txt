@@ -1,0 +1,6 @@
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Five-Special-Letters\bin\Debug\Five-Special-Letters.exe.config
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Five-Special-Letters\bin\Debug\Five-Special-Letters.exe
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Five-Special-Letters\bin\Debug\Five-Special-Letters.pdb
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Five-Special-Letters\obj\Debug\Five-Special-Letters.exe
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Five-Special-Letters\obj\Debug\Five-Special-Letters.pdb
+C:\Users\Reath\documents\visual studio 2013\Projects\CSharp-Exam\Five-Special-Letters\obj\Debug\Five-Special-Letters.csprojResolveAssemblyReference.cache

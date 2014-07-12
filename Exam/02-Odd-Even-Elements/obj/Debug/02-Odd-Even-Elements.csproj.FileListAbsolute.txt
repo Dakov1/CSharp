@@ -1,0 +1,3 @@
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Odd-Even-Elements\bin\Debug\Odd-Even-Elements.exe.config
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Odd-Even-Elements\obj\Debug\Odd-Even-Elements.exe
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Odd-Even-Elements\obj\Debug\Odd-Even-Elements.pdb

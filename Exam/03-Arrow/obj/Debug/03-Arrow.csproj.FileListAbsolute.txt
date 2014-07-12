@@ -1,0 +1,3 @@
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Arrow\bin\Debug\Arrow.exe.config
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Arrow\obj\Debug\Arrow.exe
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\CSharp-Exam\Arrow\obj\Debug\Arrow.pdb
