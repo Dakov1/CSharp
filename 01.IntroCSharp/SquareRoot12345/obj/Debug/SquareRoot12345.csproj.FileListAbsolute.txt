@@ -1,0 +1,5 @@
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\SquareRoot12345\bin\Debug\SquareRoot12345.exe.config
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\SquareRoot12345\bin\Debug\SquareRoot12345.exe
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\SquareRoot12345\bin\Debug\SquareRoot12345.pdb
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\SquareRoot12345\obj\Debug\SquareRoot12345.exe
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\SquareRoot12345\obj\Debug\SquareRoot12345.pdb

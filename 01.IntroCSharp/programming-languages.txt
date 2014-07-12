@@ -1,0 +1,47 @@
+1) Javascript
+
+JavaScript (JS) is a dynamic computer programming language. It is most commonly used as part of web browsers,
+ whose implementations allow client-side scripts to interact with the user,
+ control the browser, communicate asynchronously, and alter the document content that is displayed.
+ 
+ Javascript is a scripting language, C# is a object-oriented language.
+ Both JS and C# use a semicolon to end a statement.
+ 
+ 2) C++
+ 
+ C++ (pronounced see plus plus) is a general purpose programming language that is free-form and compiled.
+ It is regarded as an intermediate-level language, as it comprises both high-level and low-level language features.
+ It provides imperative, object-oriented and generic programming features.
+ 
+ C++ influenced C#
+ C++ is a more low-level language
+ 
+ 3) Java
+ 
+ Java is a computer programming language that is concurrent, class-based, object-oriented,
+ and specifically designed to have as few implementation dependencies as possible.
+ It is intended to let application developers "write once, run anywhere" (WORA),
+ meaning that code that runs on one platform does not need to be recompiled to run on another
+ 
+ Both C# and Java are statically typed with class-based object orientation.
+ Java doesn't have unsigned integers, while as C# does have.
+ 
+ 4) PHP
+ 
+ PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
+ PHP code is interpreted by a web server with a PHP processor module, which generates the resulting web page:
+ PHP commands can be embedded directly into an HTML source document rather than calling an external file to process data.
+ 
+ Similar syntax as C#
+ PHP is designed for web development 
+ 
+ 5) Assembly 
+ 
+ An assembly language is a low-level programming language for a computer, or other programmable device, 
+ in which there is a very strong (generally one-to-one) correspondence between the language and the architecture's machine code instructions.
+ Each assembly language is specific to a particular computer architecture, in contrast to most high-level programming languages,
+ which are generally portable across multiple architectures, but require interpreting or compiling.
+ 
+ Assembly is a low-level language, C# is a high-level language.
+ They're not much alike, the only thing that connects them is that they're both computer programming languages.
+ 

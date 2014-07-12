@@ -1,0 +1,5 @@
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\ReformatCode\bin\Debug\ReformatCode.exe.config
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\ReformatCode\bin\Debug\ReformatCode.exe
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\ReformatCode\bin\Debug\ReformatCode.pdb
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\ReformatCode\obj\Debug\ReformatCode.exe
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\ReformatCode\obj\Debug\ReformatCode.pdb

@@ -1,0 +1,10 @@
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\PrintSequence\bin\Debug\PrintSequence.exe.config
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\PrintSequence\bin\Debug\PrintSequence.exe
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\PrintSequence\bin\Debug\PrintSequence.pdb
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\PrintSequence\obj\Debug\PrintSequence.exe
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Reath\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb

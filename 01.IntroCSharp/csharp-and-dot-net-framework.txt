@@ -1,0 +1,3 @@
+.NET Framework is a software framework. .NET Framework's Base Class Library provides: 
+user interface, data access, database connectivity, cryptography, web application development, numeric algorithms, network communications etc..
+C# is a programming language that you use in collaboration with .NET Framework to create programs.

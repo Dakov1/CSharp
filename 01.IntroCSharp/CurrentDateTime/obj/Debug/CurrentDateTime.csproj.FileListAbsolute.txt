@@ -1,0 +1,6 @@
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\CurrentDateTime\obj\Debug\CurrentDateTime.csprojResolveAssemblyReference.cache
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+c:\Users\Reath\Documents\Visual Studio 2013\Projects\Solution1\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

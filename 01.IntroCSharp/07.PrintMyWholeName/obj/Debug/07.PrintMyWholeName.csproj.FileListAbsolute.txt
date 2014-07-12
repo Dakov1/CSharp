@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\Solution1\07.PrintMyWholeName\bin\Debug\07.PrintMyWholeName.exe.config
-c:\users\user\documents\visual studio 2013\Projects\Solution1\07.PrintMyWholeName\bin\Debug\07.PrintMyWholeName.exe
-c:\users\user\documents\visual studio 2013\Projects\Solution1\07.PrintMyWholeName\bin\Debug\07.PrintMyWholeName.pdb
-c:\users\user\documents\visual studio 2013\Projects\Solution1\07.PrintMyWholeName\obj\Debug\07.PrintMyWholeName.exe
-c:\users\user\documents\visual studio 2013\Projects\Solution1\07.PrintMyWholeName\obj\Debug\07.PrintMyWholeName.pdb

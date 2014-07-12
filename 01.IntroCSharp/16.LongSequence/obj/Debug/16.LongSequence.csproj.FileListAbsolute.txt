@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\Solution1\16.LongSequence\bin\Debug\16.LongSequence.exe.config
-c:\users\user\documents\visual studio 2013\Projects\Solution1\16.LongSequence\bin\Debug\16.LongSequence.exe
-c:\users\user\documents\visual studio 2013\Projects\Solution1\16.LongSequence\bin\Debug\16.LongSequence.pdb
-c:\users\user\documents\visual studio 2013\Projects\Solution1\16.LongSequence\obj\Debug\16.LongSequence.exe
-c:\users\user\documents\visual studio 2013\Projects\Solution1\16.LongSequence\obj\Debug\16.LongSequence.pdb

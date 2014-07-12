@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\Solution1\05.MyName\bin\Debug\05.MyName.exe.config
-c:\users\user\documents\visual studio 2013\Projects\Solution1\05.MyName\bin\Debug\05.MyName.exe
-c:\users\user\documents\visual studio 2013\Projects\Solution1\05.MyName\bin\Debug\05.MyName.pdb
-c:\users\user\documents\visual studio 2013\Projects\Solution1\05.MyName\obj\Debug\05.PrintMyName.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2013\Projects\Solution1\05.MyName\obj\Debug\05.MyName.exe
-c:\users\user\documents\visual studio 2013\Projects\Solution1\05.MyName\obj\Debug\05.MyName.pdb
