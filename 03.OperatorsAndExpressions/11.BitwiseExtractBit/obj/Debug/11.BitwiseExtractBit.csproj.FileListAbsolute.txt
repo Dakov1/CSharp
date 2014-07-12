@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.BitwiseExtractBit\bin\Debug\11.BitwiseExtractBit.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.BitwiseExtractBit\bin\Debug\11.BitwiseExtractBit.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.BitwiseExtractBit\bin\Debug\11.BitwiseExtractBit.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.BitwiseExtractBit\obj\Debug\11.BitwiseExtractBit.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\11.BitwiseExtractBit\obj\Debug\11.BitwiseExtractBit.pdb

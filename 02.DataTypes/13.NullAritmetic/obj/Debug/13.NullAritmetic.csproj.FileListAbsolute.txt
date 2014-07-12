@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution2\13.NullAritmetic\bin\Debug\13.NullAritmetic.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution2\13.NullAritmetic\bin\Debug\13.NullAritmetic.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\13.NullAritmetic\bin\Debug\13.NullAritmetic.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution2\13.NullAritmetic\obj\Debug\13.NullAritmetic.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Solution2\13.NullAritmetic\obj\Debug\13.NullAritmetic.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\13.NullAritmetic\obj\Debug\13.NullAritmetic.pdb

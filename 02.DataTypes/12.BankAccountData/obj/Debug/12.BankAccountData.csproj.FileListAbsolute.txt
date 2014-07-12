@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution2\12.BankAccountData\bin\Debug\12.BankAccountData.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution2\12.BankAccountData\bin\Debug\12.BankAccountData.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\12.BankAccountData\bin\Debug\12.BankAccountData.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution2\12.BankAccountData\obj\Debug\12.BankAccountData.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Solution2\12.BankAccountData\obj\Debug\12.BankAccountData.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\12.BankAccountData\obj\Debug\12.BankAccountData.pdb

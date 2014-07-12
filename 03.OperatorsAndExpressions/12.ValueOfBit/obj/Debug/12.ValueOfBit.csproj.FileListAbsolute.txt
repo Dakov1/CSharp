@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\12.ValueOfBit\bin\Debug\12.ValueOfBit.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\12.ValueOfBit\bin\Debug\12.ValueOfBit.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\12.ValueOfBit\bin\Debug\12.ValueOfBit.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\12.ValueOfBit\obj\Debug\12.ValueOfBit.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\12.ValueOfBit\obj\Debug\12.ValueOfBit.pdb

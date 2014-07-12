@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution2\03.Comparing Floats\bin\Debug\03.Comparing Floats.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution2\03.Comparing Floats\bin\Debug\03.Comparing Floats.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\03.Comparing Floats\bin\Debug\03.Comparing Floats.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution2\03.Comparing Floats\obj\Debug\03.Comparing Floats.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Solution2\03.Comparing Floats\obj\Debug\03.Comparing Floats.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\03.Comparing Floats\obj\Debug\03.Comparing Floats.pdb

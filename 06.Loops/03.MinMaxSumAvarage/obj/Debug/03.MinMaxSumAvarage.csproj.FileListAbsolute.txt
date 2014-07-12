@@ -1,0 +1,6 @@
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\03.MinMaxSumAvarage\bin\Debug\03.MinMaxSumAvarage.exe.config
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\03.MinMaxSumAvarage\bin\Debug\03.MinMaxSumAvarage.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\03.MinMaxSumAvarage\bin\Debug\03.MinMaxSumAvarage.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\03.MinMaxSumAvarage\obj\Debug\03.MinMaxSumAvarage.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\03.MinMaxSumAvarage\obj\Debug\03.MinMaxSumAvarage.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\03.MinMaxSumAvarage\obj\Debug\03.MinMaxSumAvarage.pdb

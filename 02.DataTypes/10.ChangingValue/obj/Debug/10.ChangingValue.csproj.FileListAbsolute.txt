@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution2\10.ChangingValue\bin\Debug\10.ChangingValue.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution2\10.ChangingValue\bin\Debug\10.ChangingValue.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\10.ChangingValue\bin\Debug\10.ChangingValue.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution2\10.ChangingValue\obj\Debug\10.ChangingValue.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Solution2\10.ChangingValue\obj\Debug\10.ChangingValue.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\10.ChangingValue\obj\Debug\10.ChangingValue.pdb

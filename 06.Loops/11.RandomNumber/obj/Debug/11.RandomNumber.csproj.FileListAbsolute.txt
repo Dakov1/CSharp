@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\11.RandomNumber\bin\Debug\11.RandomNumber.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\11.RandomNumber\bin\Debug\11.RandomNumber.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\11.RandomNumber\bin\Debug\11.RandomNumber.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\11.RandomNumber\obj\Debug\11.RandomNumber.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\11.RandomNumber\obj\Debug\11.RandomNumber.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\11.RandomNumber\obj\Debug\11.RandomNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\ConsoleIO\02.CompanyInformation\bin\Debug\02.CompanyInformation.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ConsoleIO\02.CompanyInformation\bin\Debug\02.CompanyInformation.exe
+c:\users\user\documents\visual studio 2013\Projects\ConsoleIO\02.CompanyInformation\bin\Debug\02.CompanyInformation.pdb
+c:\users\user\documents\visual studio 2013\Projects\ConsoleIO\02.CompanyInformation\obj\Debug\02.CompanyInformation.exe
+c:\users\user\documents\visual studio 2013\Projects\ConsoleIO\02.CompanyInformation\obj\Debug\02.CompanyInformation.pdb

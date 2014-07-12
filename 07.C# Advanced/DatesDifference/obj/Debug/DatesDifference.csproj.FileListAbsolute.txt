@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\DatesDifference\bin\Debug\DatesDifference.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\DatesDifference\bin\Debug\DatesDifference.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\DatesDifference\bin\Debug\DatesDifference.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\DatesDifference\obj\Debug\DatesDifference.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\DatesDifference\obj\Debug\DatesDifference.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\DatesDifference\obj\Debug\DatesDifference.pdb

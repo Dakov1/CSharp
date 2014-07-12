@@ -1,0 +1,5 @@
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\02.NotDivisibleTo3And7\bin\Debug\02.NotDivisibleTo3And7.exe.config
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\02.NotDivisibleTo3And7\bin\Debug\02.NotDivisibleTo3And7.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\02.NotDivisibleTo3And7\bin\Debug\02.NotDivisibleTo3And7.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\02.NotDivisibleTo3And7\obj\Debug\02.NotDivisibleTo3And7.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\02.NotDivisibleTo3And7\obj\Debug\02.NotDivisibleTo3And7.pdb

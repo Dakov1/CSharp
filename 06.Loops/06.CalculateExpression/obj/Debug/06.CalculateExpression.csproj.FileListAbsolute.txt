@@ -1,0 +1,6 @@
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\06.CalculateExpression\bin\Debug\06.CalculateExpression.exe.config
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\06.CalculateExpression\bin\Debug\06.CalculateExpression.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\06.CalculateExpression\bin\Debug\06.CalculateExpression.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\06.CalculateExpression\obj\Debug\06.CalculateExpression.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\06.CalculateExpression\obj\Debug\06.CalculateExpression.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\06.CalculateExpression\obj\Debug\06.CalculateExpression.pdb

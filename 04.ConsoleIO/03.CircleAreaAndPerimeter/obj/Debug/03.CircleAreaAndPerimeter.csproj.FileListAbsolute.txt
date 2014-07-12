@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\03.CircleAreaAndPerimeter\bin\Debug\03.CircleAreaAndPerimeter.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\03.CircleAreaAndPerimeter\bin\Debug\03.CircleAreaAndPerimeter.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\03.CircleAreaAndPerimeter\bin\Debug\03.CircleAreaAndPerimeter.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\03.CircleAreaAndPerimeter\obj\Debug\03.CircleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\03.CircleAreaAndPerimeter\obj\Debug\03.CircleAreaAndPerimeter.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\03.CircleAreaAndPerimeter\obj\Debug\03.CircleAreaAndPerimeter.pdb

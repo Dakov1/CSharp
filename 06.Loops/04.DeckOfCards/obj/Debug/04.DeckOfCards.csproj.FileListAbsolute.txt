@@ -1,0 +1,6 @@
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\04.DeckOfCards\bin\Debug\04.DeckOfCards.exe.config
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\04.DeckOfCards\bin\Debug\04.DeckOfCards.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\04.DeckOfCards\bin\Debug\04.DeckOfCards.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\04.DeckOfCards\obj\Debug\04.DeckOfCards.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\04.DeckOfCards\obj\Debug\04.DeckOfCards.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\04.DeckOfCards\obj\Debug\04.DeckOfCards.csprojResolveAssemblyReference.cache

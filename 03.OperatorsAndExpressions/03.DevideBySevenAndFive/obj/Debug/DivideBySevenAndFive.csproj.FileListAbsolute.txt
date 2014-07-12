@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\DevideBySevenAndFive\bin\Debug\DevideBySevenAndFive.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\DevideBySevenAndFive\bin\Debug\DevideBySevenAndFive.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\DevideBySevenAndFive\bin\Debug\DevideBySevenAndFive.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\DevideBySevenAndFive\obj\Debug\DevideBySevenAndFive.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\DevideBySevenAndFive\obj\Debug\DevideBySevenAndFive.pdb

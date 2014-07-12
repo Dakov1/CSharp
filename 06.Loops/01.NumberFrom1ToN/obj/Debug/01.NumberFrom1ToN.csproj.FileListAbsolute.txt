@@ -1,0 +1,6 @@
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\01.NumberFrom1ToN\bin\Debug\01.NumberFrom1ToN.exe.config
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\01.NumberFrom1ToN\bin\Debug\01.NumberFrom1ToN.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\01.NumberFrom1ToN\bin\Debug\01.NumberFrom1ToN.pdb
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\01.NumberFrom1ToN\obj\Debug\01.NumberFrom1ToN.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\01.NumberFrom1ToN\obj\Debug\01.NumberFrom1ToN.exe
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\01.NumberFrom1ToN\obj\Debug\01.NumberFrom1ToN.pdb

@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\demo\bin\Debug\demo.exe.config

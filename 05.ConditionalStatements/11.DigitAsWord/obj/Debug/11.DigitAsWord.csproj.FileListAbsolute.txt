@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\11.DigitAsWord\bin\Debug\11.DigitAsWord.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\11.DigitAsWord\bin\Debug\11.DigitAsWord.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\11.DigitAsWord\bin\Debug\11.DigitAsWord.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\11.DigitAsWord\obj\Debug\11.DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\11.DigitAsWord\obj\Debug\11.DigitAsWord.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\11.DigitAsWord\obj\Debug\11.DigitAsWord.pdb

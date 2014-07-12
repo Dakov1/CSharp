@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution2\09.Triangle\bin\Debug\09.Triangle.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution2\09.Triangle\bin\Debug\09.Triangle.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\09.Triangle\bin\Debug\09.Triangle.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution2\09.Triangle\obj\Debug\09.Triangle.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\09.Triangle\obj\Debug\09.Triangle.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution2\09.Triangle\obj\Debug\09.Triangle.csprojResolveAssemblyReference.cache

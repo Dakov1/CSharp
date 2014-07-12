@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\09.PlayWithVariables\obj\Debug\09.PlayWithVariables.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\09.PlayWithVariables\obj\Debug\09.PlayWithVariables.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConditionalStatements\09.PlayWithVariables\obj\Debug\09.PlayWithVariables.pdb

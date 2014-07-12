@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\PrimeCheck\bin\Debug\PrimeCheck.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\PrimeCheck\bin\Debug\PrimeCheck.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\PrimeCheck\obj\Debug\PrimeCheck.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AdvancedTopics\PrimeCheck\obj\Debug\PrimeCheck.pdb

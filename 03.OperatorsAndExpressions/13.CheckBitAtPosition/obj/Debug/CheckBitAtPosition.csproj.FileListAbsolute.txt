@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.pdb

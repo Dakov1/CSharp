@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\04.GreatNumber\bin\Debug\04.GreatNumber.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\04.GreatNumber\bin\Debug\04.GreatNumber.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\04.GreatNumber\bin\Debug\04.GreatNumber.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\04.GreatNumber\obj\Debug\04.GreatNumber.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ConsoleIO\04.GreatNumber\obj\Debug\04.GreatNumber.pdb

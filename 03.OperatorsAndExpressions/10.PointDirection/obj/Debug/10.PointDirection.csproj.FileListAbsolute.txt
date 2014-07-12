@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointDirection\bin\Debug\10.PointDirection.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointDirection\bin\Debug\10.PointDirection.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointDirection\bin\Debug\10.PointDirection.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointDirection\obj\Debug\10.PointDirection.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointDirection\obj\Debug\10.PointDirection.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\10.PointDirection\obj\Debug\10.PointDirection.pdb

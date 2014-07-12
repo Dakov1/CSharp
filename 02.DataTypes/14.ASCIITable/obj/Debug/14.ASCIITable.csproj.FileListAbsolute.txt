@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution2\14.ASCIITable\bin\Debug\14.ASCIITable.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution2\14.ASCIITable\bin\Debug\14.ASCIITable.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\14.ASCIITable\bin\Debug\14.ASCIITable.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution2\14.ASCIITable\obj\Debug\14.ASCIITable.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\14.ASCIITable\obj\Debug\14.ASCIITable.pdb

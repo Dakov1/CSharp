@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution2\04.Hex\bin\Debug\04.Hex.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution2\04.Hex\bin\Debug\04.Hex.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\04.Hex\bin\Debug\04.Hex.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution2\04.Hex\obj\Debug\04.Hex.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Solution2\04.Hex\obj\Debug\04.Hex.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\04.Hex\obj\Debug\04.Hex.pdb

@@ -1,0 +1,1 @@
+c:\Users\User\documents\visual studio 2013\Projects\Solution6\05.CalculateAnExpression\bin\Debug\05.CalculateAnExpression.exe.config

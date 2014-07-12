@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.pdb
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.exe
+c:\users\user\documents\visual studio 2013\Projects\OperatorsAndExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.pdb

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution2\07.StringAndObject\bin\Debug\07.StringAndObject.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Solution2\07.StringAndObject\bin\Debug\07.StringAndObject.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\07.StringAndObject\bin\Debug\07.StringAndObject.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution2\07.StringAndObject\obj\Debug\07.StringAndObject.exe
+c:\users\user\documents\visual studio 2013\Projects\Solution2\07.StringAndObject\obj\Debug\07.StringAndObject.pdb
